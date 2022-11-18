@@ -1,4 +1,5 @@
-# Neural Denoiser  #### Gagandeep Singh Rehal (s5532166)
+# Neural Denoiser  
+#### Gagandeep Singh Rehal (s5532166)
 
 ## Abstract
 
