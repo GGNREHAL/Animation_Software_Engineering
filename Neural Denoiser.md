@@ -36,7 +36,7 @@ As the building block of their network, the authors used the residual block. The
 
 
 ## References
-####1. 
+#### 1
 
 
 
