@@ -23,11 +23,13 @@ Abdelhamed et al., (2018) state that smartphone cameras have taken over DSLRs an
 
 Anaya et al., (2018) introduced pixel and intensity-aligned clean images along with images corrupted by real low-light noise for the first time. It contains about 500 images of 120 scenes. Scientists could use the dataset to study low-light digital camera noise formation and statistics or to train and test image-denoising algorithms. Denoising algorithms must adjust their internal parameters to accommodate different levels of noise within a dataset since the images have different levels of noise.
 
-Description of the datsets you will use, if creating your own, describe how you it will be collected.
-
 ### Arcitecture Proposal
 
-Description of the arcitecture you will use (include diagrams and references as appropriate).
+#### ResNet
+
+In their paper, He et al., (2015) introduced the ResNet deep learning model, one of the most well-known deep learning models. Feng (2022) says, despite its popularity, ResNet does have some disadvantages, including the need for weeks of training and its impossibility in real-world applications.
+
+
 
 ## References
 
