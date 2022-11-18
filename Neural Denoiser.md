@@ -15,7 +15,8 @@ y = x + n,
 Where y represents the noise, x denotes the noise-free image for recovery, and n stands for measurement noise. There are many ways to define the noise n, but the most common one is to consider the instance drawn from some distribution. Recent years have seen rapid growth in deep neural network-based image denoising. Zhang et al., (2016)  designed DnCNN to denoise images by combining convolutional neural networks and residual learning. The DnCNN algorithm outperforms traditional denoisers by a large margin when supervised by a noisy-clean paired image. As per Huang et al., (2021) these models require a huge amount of noisy-clean data for training and it is extremely challenging and expensive to collect a large amount of data for training. This is one of the limits of supervised denoisers. I aim to develop a method for denoising digital photographs that recognizes noise statistics and noise formation in low-light images by using supervised learning.
 
 ![alt title](denoised.png)
-Source:gofastresearch.com
+
+Source: gofastresearch.com
 
 ### Datasets
 #### Smartphone Image Denoising Dataset (SIDD)
