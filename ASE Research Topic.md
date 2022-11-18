@@ -1,4 +1,5 @@
-# My Project Title
+# Neural Denoiser
+## Gagandeep Singh Rehal (s5532166)
 
 ## Abstract
 
