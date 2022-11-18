@@ -36,7 +36,7 @@ As the building block of their network, the authors used the residual block. The
 
 
 ## References
-#### 1
+#### 1. Ilesanmi, A.E., Ilesanmi, T.O.: Methods for image denoising using convolutional neural network: a review. 2021, AIS 2179–2198. Available from: https://link.springer.com/article/10.1007/s40747-021-00428-4#citeas [Accessed 16 November 2022].
 
 
 
