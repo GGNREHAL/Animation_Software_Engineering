@@ -38,5 +38,19 @@ As the building block of their network, the authors used the residual block. The
 ## References
 #### 1. Ilesanmi, A.E., Ilesanmi, T.O.: Methods for image denoising using convolutional neural network: a review. 2021, AIS 2179–2198. Available from: https://link.springer.com/article/10.1007/s40747-021-00428-4#citeas [Accessed 16 November 2022].
 
+#### 2. Tongyao Pang., 2021. Recorrupted-to-Recorrupted: Unsupervised Deep Learning for Image Denoising [Online]. In: Huan Zheng, Yuhui Quan, Hui Ji., eds. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 2043-2052. Available from: https://openaccess.thecvf.com/content/CVPR2021/html/Pang_Recorrupted-to-Recorrupted_Unsupervised_Deep_Learning_for_Image_Denoising_CVPR_2021_paper.html [Accessed 16 November 2022].
+
+#### 3. Kai Zhang., 2016. Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising [Online]. In:  Wangmeng Zuo, Yunjin Chen, Deyu Meng, Lei Zhang., eds. Computer Vision and Pattern Recognition (CVPR), 2016. Available from: https://arxiv.org/abs/1608.03981 [Accessed 16 November 2022].
+
+#### 4. Tao Huang., 2021. Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images [Online]. In: Songjiang Li, Xu Jia, Huchuan Lu, Jianzhuang Liu., eds. Computer Vision and Pattern Recognition (CVPR), 2021. Available from: https://arxiv.org/abs/2101.02824 [Accessed 16 November 2022].
+
+#### 5. Abdelrahman Abdelhamed, Lin S., Brown M. S. 2018. "A High-Quality Denoising Dataset for Smartphone Cameras", [Online]. eds. IEEE Computer Vision and Pattern Recognition (CVPR), 2018. Available from: https://www.eecs.yorku.ca/~kamel/sidd/index.php [Accessed 17 November 2022].
+
+#### 6. J. Anaya, A. Barbu., 2018. RENOIR - A Dataset for Real Low-Light Image Noise Reduction. Journal of Visual Comm. and Image Rep. [Online] 51(2), 144-154. Available from: https://arxiv.org/abs/1409.8230 [Accessed 17 November 2022].
+
+#### 7. Kaiming He., 2015. Deep Residual Learning for Image Recognition. [Online]. In: Xiangyu Zhang, Shaoqing Ren, Jian Sun., eds. Computer Vision and Pattern Recognition (CVPR), 2015. Available from: https://arxiv.org/abs/1512.03385 [Accessed 17 November 2022].
+
+#### 8. Zijian Feng., 2022. An Overview of RezNet Architecture and its Varients. [Online]. Available from: https://builtin.com/artificial-intelligence/resnet-architecture [Accessed 17 November 2022].
+
 
 
