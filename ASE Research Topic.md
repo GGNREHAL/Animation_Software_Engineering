@@ -29,6 +29,10 @@ Anaya et al., (2018) introduced pixel and intensity-aligned clean images along w
 
 In their paper, He et al., (2015) introduced the ResNet deep learning model, one of the most well-known deep learning models. Feng (2022) says, despite its popularity, ResNet does have some disadvantages, including the need for weeks of training and its impossibility in real-world applications.
 
+![alt title](resnet.png)
+Source: Deep Residual Learning for Image Recognition (He et al., 2015)
+
+As the building block of their network, the authors used the residual block. The input of a particular residual block flows through both the identity shortcut and the weight layers during training, otherwise, only the identity shortcut is used. At training time, each layer is randomly dropped, according to its "survival probability". Each block is re-calibrated based on its survival probability during training time and kept active during testing (Feng., 2022). The survival probability of each layer was calculated using a linear decay rule. In experiments, training a 110-layer ResNet with stochastic depth improves performance, while reducing training time dramatically compared with training a constant-depth 110-layer ResNet.
 
 
 ## References
