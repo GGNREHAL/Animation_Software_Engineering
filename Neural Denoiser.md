@@ -56,5 +56,6 @@ As the building block of their network, the authors used the residual block. The
 
 #### 8. Zijian Feng., 2022. An Overview of RezNet Architecture and its Varients. [Online]. Available from: https://builtin.com/artificial-intelligence/resnet-architecture [Accessed 17 November 2022].
 
+#### 9. www.gofastresearch.com., 2020. What is Image Denoising ? - denoised.png [photograph]. Available from: https://www.gofastresearch.com/2020/04/what-is-image-denoising.html [Accessed 18 November 2022].
 
 
