@@ -70,6 +70,6 @@ As the building block of their network, the residual block was used by the scien
 
 #### 10. Han Xiao, 2017. Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms [online]. In: Kashif Rasul, Roland Vollgraf., eds. Computer Vision and Pattern Recognition (CVPR), 2017. Available from: https://arxiv.org/pdf/1708.07747.pdf [Accessed on: 13 January 2023].
 
-#### 11. Pascal Vincent, 2010. Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion [online]. In: Hugo Larochelle, Isabelle Lajoie, Yoshua Bengio, Pierre-Antoine Manzagol., eds. Journal of Machine Learning Research, 2011. Available from: https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf [Accessed on 13 January 2023].
+#### 11. Pascal Vincent, 2010. Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion [online]. In: Hugo Larochelle, Isabelle Lajoie, Yoshua Bengio, Pierre-Antoine Manzagol., eds. Journal of Machine Learning Research, 2011. Available from: https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf [Accessed on 13 January 2023]..
 
 
