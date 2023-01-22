@@ -1,4 +1,4 @@
-3rd party Autoencoder code.
+#Autoencoder code.
 
 class Encoder(nn.Module):
     def __init__(self):
@@ -42,3 +42,19 @@ class Autoencoder(torch.nn.Module):
         x = self.encoder(x)
         x = self.decoder(x)
         return x
+        
+        
+#training function
+
+ # Train
+    model.train()
+    loss_tr = []
+    for step, (images_raw, images_out) in enumerate(train_loader):
+        p = model(images_raw.float())
+        batch_loss = loss_func(images_out, p)
+        loss_tr.append(batch_loss.detach().item())
+        optimizer.zero_grad()
+        batch_loss.backward()
+        optimizer.step()
+    print(f"{epoch}, training_loss {np.mean(loss_tr)}, {time.time() - current_time} secs")
+    current_time = time.time()
